@@ -1,11 +1,14 @@
 # AI - Notes
 # -wildan-
-Prompt: Make a tps code with go and i want the code can run in vscode
+Prompt: Make a tps code with go and i want the code can run in vscode.
 
-Ai Helped us with: The code for bubble sort algorithm in Go extension.
+Ai Helped us with: The tps code with go.
 
-I changed: The input of unsorted data.
+I changed: The the range of city.
 
-I tested: The unsorted data that AI made and the unsorted data that i made.
+I tested: The tps code and i changed the value.
 
-Result: Bubble sort make unsorted data has several pass to sorted it until it has the correct value, the one that AI made has 7 pass to sorted the data while the data that we changed only require 4 pass.
+Result: test 1 Rute: Kota 1 -> Kota 2 -> Kota 4 -> Kota 3 -> Kota 1
+Total jarak: 80.
+
+test 2 
