@@ -11,4 +11,8 @@ I tested: The tps code and i changed the value.
 Result: test 1 Rute: Kota 1 -> Kota 2 -> Kota 4 -> Kota 3 -> Kota 1
 Total jarak: 80.
 
-test 2 
+test 2 Rute: Kota 1 -> Kota 2 -> Kota 3 -> Kota 4 -> Kota 1
+Total jarak: 50.
+
+test 3 Rute: Kota 1 -> Kota 3 -> Kota 4 -> Kota 2 -> Kota 1
+Total jarak: 50
